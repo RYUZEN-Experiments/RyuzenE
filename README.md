@@ -1,2 +1,4 @@
 # RyuzenE
-nonono
+
+#Gunakan Code Ini dengan Baik
+#Salam..
